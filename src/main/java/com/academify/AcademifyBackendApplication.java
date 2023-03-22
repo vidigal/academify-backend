@@ -1,5 +1,6 @@
 package com.academify;
 
+import com.academify.model.Aluno;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
